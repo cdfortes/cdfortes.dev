@@ -5,10 +5,12 @@ _____
 
 Check it [here](https://cdfortes-dev.vercel.app/)
 
-## TECHO
+## TECHNO
 
 - [ ] React
 - [ ] SASS
 - [ ] Bootstrapp
+- [ ] Axios
+
 
 under construction ......
